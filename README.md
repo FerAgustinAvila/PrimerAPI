@@ -38,7 +38,7 @@ Read
 
 ### Base de datos final
 Una visualización de la base de datos final
- ![BD Final](Vistas/bdfinal.jpg)
+ ![BD Final](Vistas/dbfinal.jpg)
 
 
 
